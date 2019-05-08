@@ -7,5 +7,7 @@ func add(x int, y int) int {
 }
 
 func main() {
+	// add関数で足し算
+	// 55
 	fmt.Println(add(42, 13))
 }
